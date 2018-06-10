@@ -1,2 +1,2 @@
-# safeSchool
+# safe
 Safe and cool
